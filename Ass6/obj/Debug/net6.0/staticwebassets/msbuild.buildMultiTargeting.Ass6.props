@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ass6.props" />
+</Project>
